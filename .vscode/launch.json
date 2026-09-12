@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReverseCustomerName",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.ReverseCustomerName",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeating",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.FirstNonRepeating",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "BMICalculator",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.BMICalculator",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeChecker",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.PalindromeChecker",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissors",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.RockPaperScissors",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissorsGame",
+            "request": "launch",
+            "mainClass": "main.java.week_1.class_work.RockPaperScissorsGame",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "MovieReviewWordProfiler",
+            "request": "launch",
+            "mainClass": "MovieReviewWordProfiler",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "WarehouseInventoryBalancer",
+            "request": "launch",
+            "mainClass": "WarehouseInventoryBalancer",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "TrafficSignalStreakAnalyzer",
+            "request": "launch",
+            "mainClass": "TrafficSignalStreakAnalyzer",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissorsGame",
+            "request": "launch",
+            "mainClass": "RockPaperScissorsGame",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "TypingAccuracyChecker",
+            "request": "launch",
+            "mainClass": "TypingAccuracyChecker",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "SeatDuplicationChecker",
+            "request": "launch",
+            "mainClass": "SeatDuplicationChecker",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "SeatDuplicationChecker",
+            "request": "launch",
+            "mainClass": "week1.assigment_problems.SeatDuplicationChecker",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
