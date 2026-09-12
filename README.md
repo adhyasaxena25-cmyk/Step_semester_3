@@ -4,6 +4,19 @@ Step assignments, class work and tests.
 
 ## Date: 12-09-2026
 **Today's Work:**
+- Completed and committed all 5 Week 5 Category C Live-Coding (Classwork) problems under `src/main/java/week_5/class_work/`.
+- Completed and committed all 5 Week 5 Category C Assignment problems under `src/main/java/week_5/assignment_problems/`.
+
+**Next Session Plan:**
+- Merge `feature/session_5` into `develop` via Pull Request and prepare for Week 6.
+
+**Issues Faced:**
+- Managed arrays passed by reference, single-pass min/max tracking, 2D jagged grid processing, and Comparable interface implementations.
+
+---
+
+## Date: 12-09-2026
+**Today's Work:**
 - Completed and committed all 5 Week 4 Category C Live-Coding (Classwork) problems under `src/main/java/week_4/class_work/`.
 - Completed and committed all 5 Week 4 Category C Assignment problems under `src/main/java/week_4/assignment_problems/`.
 
