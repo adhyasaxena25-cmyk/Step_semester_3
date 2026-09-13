@@ -2,6 +2,25 @@
 Step assignments, class work and tests.
 
 
+## [13-09-2026] - Week 6: Access Modifiers, Encapsulation & Object Modeling
+
+### Summary
+- Learned and applied Java access modifiers (`private`, `default`, `protected`, `public`), encapsulation practices, static members, and object reference handling.
+- Standardized package structure across all files to `main.java.week_6.class_work`.
+
+### Completed Classwork Problems
+1. **Student Placement Record Management (`PlacementRecord.java`)**: Designed an object-oriented replacement for parallel arrays using a custom class and array of objects.
+2. **Hostel Mess Wallet Management (`MessWallet.java`)**: Implemented strict encapsulation with a `private` balance field, getter-only read access, and validated mutation methods (`topUp`, `deduct`).
+3. **Course Credit Management (`Course.java`)**: Demonstrated constructor chaining using `this(...)` to handle theory-only and lab-integrated courses.
+4. **Library ID Card Management (`IdCard.java`)**: Analyzed object reference behavior vs. separate instance creation using the `==` operator.
+5. **Student and College Information Management (`Student.java`)**: Utilized static fields (`collegeName`, `studentCount`) and a static utility method to manage shared context across instances.
+
+### Repository Layout Verification
+- Branch: `feature/session_6` (Merged into `develop`)
+- Path: `src/main/java/week_6/class_work/`
+
+---
+
 ## Date: 12-09-2026
 **Today's Work:**
 - Completed and committed all 5 Week 5 Category C Live-Coding (Classwork) problems under `src/main/java/week_5/class_work/`.
