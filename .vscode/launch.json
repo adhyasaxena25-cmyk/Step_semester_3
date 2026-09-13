@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MessWallet",
+            "request": "launch",
+            "mainClass": "main.java.week_6.class_work.MessWallet",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "main.java.week_6.class_work.Student",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "IdCard",
+            "request": "launch",
+            "mainClass": "main.java.week_6.class_work.IdCard",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "Course",
+            "request": "launch",
+            "mainClass": "main.java.week_6.class_work.Course",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "PlacementRecord",
+            "request": "launch",
+            "mainClass": "main.java.week_6.class_work.PlacementRecord",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
             "name": "ReverseCustomerName",
             "request": "launch",
             "mainClass": "main.java.week_1.class_work.ReverseCustomerName",
