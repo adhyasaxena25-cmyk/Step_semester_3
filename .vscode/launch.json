@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CompanyEmployee",
+            "request": "launch",
+            "mainClass": "main.java.week_6.assignment_problems.CompanyEmployee",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "HallTicket",
+            "request": "launch",
+            "mainClass": "main.java.week_6.assignment_problems.HallTicket",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "main.java.week_6.assignment_problems.Employee",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "PayrollAccount",
+            "request": "launch",
+            "mainClass": "main.java.week_6.assignment_problems.PayrollAccount",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "BookInventory",
+            "request": "launch",
+            "mainClass": "main.java.week_6.assignment_problems.BookInventory",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
             "name": "MessWallet",
             "request": "launch",
             "mainClass": "main.java.week_6.class_work.MessWallet",
