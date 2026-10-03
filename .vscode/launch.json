@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AttendanceSheet",
+            "request": "launch",
+            "mainClass": "main.java.week_7.practice_problems.AttendanceSheet",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "Locker",
+            "request": "launch",
+            "mainClass": "main.java.week_7.practice_problems.Locker",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "NameTag",
+            "request": "launch",
+            "mainClass": "main.java.week_7.practice_problems.NameTag",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "Scorecard",
+            "request": "launch",
+            "mainClass": "main.java.week_7.practice_problems.Scorecard",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
+            "name": "PiggyBank",
+            "request": "launch",
+            "mainClass": "main.java.week_7.practice_problems.PiggyBank",
+            "projectName": "Step_semester_3_afb4b7a2"
+        },
+        {
+            "type": "java",
             "name": "CompanyEmployee",
             "request": "launch",
             "mainClass": "main.java.week_6.assignment_problems.CompanyEmployee",
